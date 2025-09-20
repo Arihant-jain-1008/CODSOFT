@@ -1,2 +1,2 @@
 # CODSOFT
-It is an internship tasks repo that contains my projects that i will be making during the internship program for web development in CODSOFT company.
+This repository showcases the projects I completed during my Web Development Internship at CodSoft, including a Portfolio Website, a Coffee Company Landing Page, and a Calculator App. Built with HTML, CSS, and JavaScript, these projects demonstrate my frontend and UI/UX skills.
